@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-22 12:55+0100\n"
+"PO-Revision-Date: 2020-11-22 12:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: main.pyw\n"
+"X-Poedit-SearchPath-2: library\n"
+
+#: library/config.py:51
+msgid "Pas de prefixe pour les \"{} \" dans le fichier config.txt !"
+msgstr "No prefix for \"{}\" in config.txt !"
+
+#: library/config.py:67
+msgid "Doublons dans les préfixes dans config.txt!"
+msgstr "duplicate in config.txt!"
+
+#: library/config.py:72 library/config.py:75
+msgid " Pas de définition pour \"fin\" de \"TQ\" !"
+msgstr "No definition for \"end\" of \"WHILE\" !"
+
+#: library/config.py:80 library/config.py:82
+msgid " Pas de définition pour \"fin\" de \"SI\" !"
+msgstr "No definition for \"end\" of  \"IF\" !"
+
+#: library/config.py:85
+msgid "Doublons dans les définitions de \"fin\" (TQ-SI) dans config.txt!"
+msgstr "Duplicate in the définitions of \"end\" in config.txt !"
+
+#: library/config.py:89
+msgid "Erreur fatale dans config.txt"
+msgstr "fatal error in config.txt"
+
+#: library/library.py:24
+msgid "Pseudo-code vers SVG"
+msgstr "code to SVG"
+
+#: library/library.py:41
+msgid "Selectionner un fichier"
+msgstr "Select File"
+
+#: library/library.py:41 library/library.py:51 library/library.py:168
+msgid "Tous les fichiers"
+msgstr "all files"
+
+#: library/library.py:51
+msgid "Enregistrer Sous..."
+msgstr "Save as ..."
+
+#: library/library.py:124
+msgid "Prévisualiser (png)"
+msgstr "Preview (png)"
+
+#: library/library.py:127
+msgid "Enregistrer SVG"
+msgstr "Save SVG"
+
+#: library/library.py:128
+msgid "Aide  en ligne"
+msgstr "Help online "
+
+#: library/library.py:168
+msgid "Fichier SVG"
+msgstr "SVG File"
+
+#: library/library.py:178
+msgid ""
+"Pour modifier les paramètres il suffit d'éditer le fichier\n"
+"config.txt dans le répertoire de l'application."
+msgstr ""
+"You can change parameters  editing config.txt in the applcation's folder."
+
+#: library/library.py:185
+msgid ""
+"Vous pouvez choisir une autre langue (si disponible) dans le fichier config."
+"txt.\n"
+"Par defaut, ou en cas d'erreur, logigw est en français !"
+msgstr ""
+"You can choose another language (if available) in config.txt.\n"
+"By default, or in case of error, logigw is in French !"
+
+#: library/library.py:188
+msgid "Langue"
+msgstr "Lang"
+
+#: library/library.py:197
+msgid "Fichier"
+msgstr "File"
+
+#: library/library.py:198
+msgid "Nouveau"
+msgstr "New"
+
+#: library/library.py:199
+msgid "Ouvrir"
+msgstr "Open"
+
+#: library/library.py:200
+msgid "Enregistrer"
+msgstr "Save"
+
+#: library/library.py:201
+msgid "Enregistrer sous..."
+msgstr "Save as ..."
+
+#: library/library.py:208
+msgid "Previsualiser LQ (png)"
+msgstr "LQ Preview (png)"
+
+#: library/library.py:209
+msgid "Ouvrir dans un navigateur HQ (svg)"
+msgstr "Open in browser (HQ)"
+
+#: library/library.py:210
+msgid "Options"
+msgstr "Options"
+
+#: library/library.py:215
+msgid "A propos"
+msgstr "About..."
+
+#: library/library.py:216
+msgid "Aide en ligne"
+msgstr "Help Online"
+
+#: library/library.py:217
+msgid "Sources et téléchargement"
+msgstr "Downloads "
+
+#: library/library.py:218
+msgid "Faire un don"
+msgstr "Donate"
+
+#: library/tqsi.py:68
+msgid "Pas de code à traiter..."
+msgstr "No code to process"
+
+#: library/tqsi.py:94 library/tqsi.py:101 library/tqsi.py:145
+msgid "Erreur fatale dans le code ! "
+msgstr "Fatal error in code "
+
+#~ msgid "Quitter"
+#~ msgstr "Quit"

@@ -1,0 +1,149 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: logigw\n"
+"POT-Creation-Date: 2020-11-22 12:50+0100\n"
+"PO-Revision-Date: 2020-11-21 19:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: main.py\n"
+"X-Poedit-SearchPath-1: library\n"
+
+#: library/config.py:51
+msgid "Pas de prefixe pour les \"{} \" dans le fichier config.txt !"
+msgstr ""
+
+#: library/config.py:67
+msgid "Doublons dans les préfixes dans config.txt!"
+msgstr ""
+
+#: library/config.py:72 library/config.py:75
+msgid " Pas de définition pour \"fin\" de \"TQ\" !"
+msgstr ""
+
+#: library/config.py:80 library/config.py:82
+msgid " Pas de définition pour \"fin\" de \"SI\" !"
+msgstr ""
+
+#: library/config.py:85
+msgid "Doublons dans les définitions de \"fin\" (TQ-SI) dans config.txt!"
+msgstr ""
+
+#: library/config.py:89
+msgid "Erreur fatale dans config.txt"
+msgstr ""
+
+#: library/library.py:24
+msgid "Pseudo-code vers SVG"
+msgstr ""
+
+#: library/library.py:44
+msgid "Selectionner un fichier"
+msgstr ""
+
+#: library/library.py:44 library/library.py:54 library/library.py:171
+msgid "Tous les fichiers"
+msgstr ""
+
+#: library/library.py:54
+msgid "Enregistrer Sous..."
+msgstr ""
+
+#: library/library.py:127
+msgid "Prévisualiser (png)"
+msgstr ""
+
+#: library/library.py:130
+msgid "Enregistrer SVG"
+msgstr ""
+
+#: library/library.py:131
+msgid "Aide  en ligne"
+msgstr ""
+
+#: library/library.py:171
+msgid "Fichier SVG"
+msgstr ""
+
+#: library/library.py:181
+msgid ""
+"Pour modifier les paramètres il suffit d'éditer le fichier\n"
+"config.txt dans le répertoire de l'application."
+msgstr ""
+
+#: library/library.py:188
+msgid ""
+"Vous pouvez choisir une autre langue (si disponible) dans le fichier config.txt.\n"
+"Par defaut, ou en cas d'erreur, logigw est en français !"
+msgstr ""
+
+#: library/library.py:191
+msgid "Langue"
+msgstr ""
+
+#: library/library.py:200
+msgid "Fichier"
+msgstr ""
+
+#: library/library.py:201
+msgid "Nouveau"
+msgstr ""
+
+#: library/library.py:202
+msgid "Ouvrir"
+msgstr ""
+
+#: library/library.py:203
+msgid "Enregistrer"
+msgstr ""
+
+#: library/library.py:204
+msgid "Enregistrer sous..."
+msgstr ""
+
+#: library/library.py:205
+msgid "Quitter"
+msgstr ""
+
+#: library/library.py:212
+msgid "Previsualiser LQ (png)"
+msgstr ""
+
+#: library/library.py:213
+msgid "Ouvrir dans un navigateur HQ (svg)"
+msgstr ""
+
+#: library/library.py:214
+msgid "Options"
+msgstr ""
+
+#: library/library.py:219
+msgid "A propos"
+msgstr ""
+
+#: library/library.py:220
+msgid "Aide en ligne"
+msgstr ""
+
+#: library/library.py:221
+msgid "Sources et téléchargement"
+msgstr ""
+
+#: library/library.py:222
+msgid "Faire un don"
+msgstr ""
+
+#: library/tqsi.py:68
+msgid "Pas de code à traiter..."
+msgstr ""
+
+#: library/tqsi.py:94 library/tqsi.py:101 library/tqsi.py:145
+msgid "Erreur fatale dans le code ! "
+msgstr ""

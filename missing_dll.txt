@@ -1,0 +1,11 @@
+Note pour les versions de windows antérieures à windows 10
+
+api-ms-win-crt-runtime-l1-1-0.dll peut être manquante.
+
+Cette DLL est installéee avec une mise à jour Windows. 
+
+Pour résoudre ce problème, 
+téléchargez et installez la Mise à jour
+pour le Runtime C universel :
+
+https://support.microsoft.com/fr-fr/help/2999226/update-for-universal-c-runtime-in-windows

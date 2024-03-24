@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <svg xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="522" height="617">
+        <!-- Created with logigw - https://site2wouf.fr/logigw-->
+        <style>
+        
+.debut { fill:rgb(246, 246, 221); stroke:black }
+.fin{ fill:rgb(195, 195, 171); stroke:black;}
+.es{ fill:rgb(254, 245, 108 ); stroke:black;}
+.instructions{ fill:rgb(156, 255, 146 ); stroke:black;}
+.TQ{ fill:rgb(255, 220, 220); stroke:red;}
+.SI{ fill:rgb(255, 220, 220); stroke:red;}
+.texte-debut { fill: navy; font-style : italic }
+.texte-fin{ fill: navy; font-style : italic;}
+.texte-es{ fill: blue;}
+.texte-instructions{ fill:black; font-style: bolder;}
+.texte-TQ{ fill: red;}
+.texte-SI{ fill: grey;}
+        </style>
+        <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5"
+            markerWidth="6" markerHeight="6"
+            orient="auto-start-reverse"
+            stroke="black">
+          <path d="M 0 0 L 10 5 L 0 10 z" />
+        </marker>
+        
+    <defs>
+    <g id="1.1"><rect width="88" height="40"  class="instructions" stroke="black"   /><text font-size="12" font-family="Monospace" text-anchor="start" xml:space="preserve" fill="black">
+<tspan  class="texte-instructions" x="12" y="22" >souriez!</tspan>
+</text></g>
+
+ <g id="Bloc_1" transform="translate(0)"  >
+
+<use xlink:href="#1.1" transform="translate(0 0)"  /></g><g id="2.1" ><rect class="debut" width="64" height="40" rx="20"  stroke="black"   /><text font-size="12" font-family="Monospace" text-anchor="start" xml:space="preserve" fill="black">
+<tspan  class="texte-debut" x="12" y="22" >Début</tspan>
+</text></g>
+
+<g id="2.2"><rect width="168" height="40"  class="instructions" stroke="black"   /><text font-size="12" font-family="Monospace" text-anchor="start" xml:space="preserve" fill="black">
+<tspan  class="texte-instructions" x="12" y="22" >Les applis de wouf</tspan>
+</text></g>
+<g id="2.3"><rect width="136" height="40"  class="instructions" stroke="black"   /><text font-size="12" font-family="Monospace" text-anchor="start" xml:space="preserve" fill="black">
+<tspan  class="texte-instructions" x="12" y="22" >c&apos;est ici</tspan>
+</text></g>
+<g id="2.4" transform="translate(30)">
+<polygon points="184,0 368,40 184,80 0,40"  class="TQ" stroke="black"/>\n
+    <g transform="translate(92.0 20.0)"><text font-size="12" font-family="Monospace" text-anchor="start" xml:space="preserve" fill="black">
+<tspan  class="texte-TQ" x="12" y="22" >tq vous êtes content</tspan>
+</text></g>
+<line x1="184" y1="80" x2="184" y2="111" style="stroke:black;stroke-width:2" marker-end="url(#arrow)"/>
+<use x="140" y="117" xlink:href="#Bloc_1" ></use><line x1="184" y1="157" x2="184" y2="187" style="stroke:black;stroke-width:2" />
+<line x1="184" y1="187" x2="-30" y2="187" style="stroke:black;stroke-width:2" />
+<line x1="-30" y1="187" x2="-30" y2="40" style="stroke:black;stroke-width:2" />
+<line x1="-30" y1="40" x2="-5" y2="40" style="stroke:black;stroke-width:2" marker-end="url(#arrow)" />
+<circle cx="368" cy="40" r="4" fill="black"/>
+<line x1="368" y1="40" x2="398" y2="40" style="stroke:black;stroke-width:2" />
+<line x1="398" y1="40" x2="398" y2="207" style="stroke:black;stroke-width:2" />
+</g><g id="2.5"><rect width="168" height="60"  class="instructions" stroke="black"   /><text font-size="12" font-family="Monospace" text-anchor="start" xml:space="preserve" fill="black">
+<tspan  class="texte-instructions" x="12" y="22" >logigramme réalisé</tspan>
+<tspan  class="texte-instructions" x="12" y="42" >avec logigw</tspan>
+</text></g>
+<g id="2.6" ><rect class="fin" width="48" height="40" rx="20"  stroke="black"   /><text font-size="12" font-family="Monospace" text-anchor="start" xml:space="preserve" fill="black">
+<tspan  class="texte-fin" x="12" y="22" >fin</tspan>
+</text></g>
+
+
+ <g id="Bloc_2" transform="translate(182)"  >
+
+<use xlink:href="#2.1" transform="translate(0 0)"  />
+<line x1="32" y1="40" x2="32" y2="70" style="stroke:black;stroke-width:2" marker-end="url(#arrow)"/>
+
+
+<use xlink:href="#2.2" transform="translate(-52 76)"  />
+<line x1="32" y1="116" x2="32" y2="146" style="stroke:black;stroke-width:2" marker-end="url(#arrow)"/>
+
+
+<use xlink:href="#2.3" transform="translate(-36 152)"  />
+<line x1="32" y1="192" x2="32" y2="222" style="stroke:black;stroke-width:2" marker-end="url(#arrow)"/>
+
+
+<use xlink:href="#2.4" transform="translate(-182 228)"  />
+<line x1="246" y1="435" x2="246" y2="465" style="stroke:black;stroke-width:2" marker-end="url(#arrow)"/>
+
+
+<use xlink:href="#2.5" transform="translate(162 471)"  />
+<line x1="246" y1="531" x2="246" y2="561" style="stroke:black;stroke-width:2" marker-end="url(#arrow)"/>
+
+
+<use xlink:href="#2.6" transform="translate(222 567)"  /></g>
+    </defs>
+
+    
+<use xlink:href="#Bloc_2" transform ="translate (5)" />
+</svg>
